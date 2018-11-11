@@ -1,0 +1,661 @@
+﻿Log file open, 11/11/18 14:12:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UE4MegaJamHeagney
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1053307038) SRandInit(-1053307038).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.267370
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: D:/Program Files/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.11-19.12.35:673][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.11-19.12.35:673][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.11-19.12.35:723][  0]LogInit: Computer: NQSC125-MSI-10
+[2018.11.11-19.12.35:723][  0]LogInit: User: bheagney
+[2018.11.11-19.12.35:723][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.11-19.12.35:723][  0]LogInit: High frequency timer resolution =3.515620 MHz
+[2018.11.11-19.12.35:723][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.11.11-19.12.35:723][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.11-19.12.35:723][  0]LogMemory: Process Physical Memory: 274.32 MB used, 274.32 MB peak
+[2018.11.11-19.12.35:723][  0]LogMemory: Process Virtual Memory: 271.79 MB used, 271.79 MB peak
+[2018.11.11-19.12.35:723][  0]LogMemory: Physical Memory: 8646.60 MB used,  24065.91 MB free, 32712.52 MB total
+[2018.11.11-19.12.35:723][  0]LogMemory: Virtual Memory: 4776.51 MB used,  24065.91 MB free, 134217728.00 MB total
+[2018.11.11-19.12.36:523][  0]LogInit: Using OS detected language (en-US).
+[2018.11.11-19.12.36:523][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.11-19.12.36:612][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.11-19.12.37:219][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.11-19.12.39:728][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.11-19.12.39:778][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.11.11-19.12.39:778][  0]LogD3D11RHI:       8096/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.11-19.12.39:780][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.11-19.12.39:780][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.11-19.12.39:780][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.11-19.12.39:785][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.11-19.12.39:795][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.11-19.12.39:795][  0]LogWindows: EnumDisplayDevices:
+[2018.11.11-19.12.39:796][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.11.11-19.12.39:796][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.11-19.12.39:797][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.11-19.12.39:797][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.11-19.12.39:797][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.11-19.12.39:797][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.11.11-19.12.39:797][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.11-19.12.39:797][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.11-19.12.39:797][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.11.11-19.12.39:858][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.11-19.12.40:419][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.11-19.12.40:604][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/Intermediate/Shaders/WorkingDirectory/9568/).
+[2018.11.11-19.12.40:605][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bheagney/AppData/Local/Temp/UnrealShaderWorkingDir/7F6C4513404E262CEAF26B8A51D29367/'.
+[2018.11.11-19.12.40:628][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.11-19.12.45:929][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.11-19.12.45:972][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.11-19.12.46:011][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.11-19.12.46:051][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.11-19.12.46:108][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.11-19.12.46:148][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.11-19.12.46:186][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.11-19.12.46:225][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.11-19.12.46:259][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.11-19.12.46:297][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.11-19.12.46:336][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.11-19.12.46:375][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.11-19.12.46:413][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.11-19.12.46:454][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.11-19.12.46:534][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.11-19.12.46:534][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.11-19.12.46:592][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.11-19.12.46:623][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.11-19.12.46:768][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.11-19.12.46:800][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.11-19.12.46:839][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.11-19.12.46:881][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.11-19.12.46:920][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.11-19.12.46:969][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.11-19.12.46:969][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.11-19.12.48:386][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.11-19.12.48:386][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.11.11-19.12.48:387][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.11-19.12.48:387][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.11-19.12.48:387][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.11-19.12.48:387][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.11-19.12.48:501][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.11-19.12.48:513][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.11-19.12.48:650][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.11-19.12.48:755][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.11-19.12.48:797][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.11-19.12.48:802][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.11-19.12.57:611][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.11-19.12.58:231][  0]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.11.11-19.13.30:785][  0]LogMaterial: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling. 
+[2018.11.11-19.13.36:927][  0]LogMaterial: Missing cached shader map for material DefaultLightFunctionMaterial, compiling. 
+[2018.11.11-19.13.37:665][  0]LogMaterial: Missing cached shader map for material DefaultPostProcessMaterial, compiling. 
+[2018.11.11-19.13.38:172][  0]LogMaterial: Missing cached shader map for material MatineeCam_mat, compiling. 
+[2018.11.11-19.13.38:585][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.11-19.13.38:629][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.11-19.13.38:636][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.11-19.13.38:637][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.11-19.13.38:637][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.11-19.13.38:637][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.11-19.13.38:938][  0]LogNetVersion: UE4MegaJamHeagney , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3476433832)
+[2018.11.11-19.13.39:153][  0]LogMaterial: Missing cached shader map for material HelpActorMaterial, compiling. 
+[2018.11.11-19.13.39:786][  0]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.11.11-19.13.40:246][  0]LogAssetRegistry: FAssetRegistry took 0.0399 seconds to start up
+[2018.11.11-19.13.40:425][  0]LogMaterial: Missing cached shader map for material Xray, compiling. 
+[2018.11.11-19.13.40:452][  0]LogMaterial: Missing cached shader map for material Main, compiling. 
+[2018.11.11-19.13.41:343][  0]LogMaterial: Missing cached shader map for material TranslucentTransformGizmoMaterial, compiling. 
+[2018.11.11-19.13.41:367][  0]LogMaterial: Missing cached shader map for material SnapGridMaterial, compiling. 
+[2018.11.11-19.13.41:394][  0]LogMaterial: Missing cached shader map for material TransformGizmoMaterial, compiling. 
+[2018.11.11-19.13.41:858][  0]LogMaterial: Missing cached shader map for material CineMat, compiling. 
+[2018.11.11-19.13.42:113][  0]LogMaterial: Missing cached shader map for material M_SimpleOpaque, compiling. 
+[2018.11.11-19.13.42:179][  0]LogMaterial: Missing cached shader map for material M_SimpleTranslucent, compiling. 
+[2018.11.11-19.13.42:623][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.11.11-19.13.42:638][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.11.11-19.13.42:677][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.11.11-19.13.42:701][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.11.11-19.13.42:718][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.11.11-19.13.42:749][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.11.11-19.13.43:247][  0]LogMaterial: Missing cached shader map for material SkySphereMaterial, compiling. 
+[2018.11.11-19.13.43:301][  0]LogMaterial: Missing cached shader map for material FloorPlaneMaterial, compiling. 
+[2018.11.11-19.13.43:623][  0]LogMaterial: Missing cached shader map for material LandscapeGizmo_Mat, compiling. 
+[2018.11.11-19.13.43:656][  0]LogMaterial: Missing cached shader map for material LandscapeGizmoHeight_Mat, compiling. 
+[2018.11.11-19.13.43:754][  0]LogMaterial: Missing cached shader map for material SplineEditorMeshMat, compiling. 
+[2018.11.11-19.13.43:877][  0]LogMaterial: Missing cached shader map for material ARKitCameraMaterial, compiling. 
+[2018.11.11-19.13.43:970][  0]LogMaterial: Missing cached shader map for material GearVRControllerMaterial, compiling. 
+[2018.11.11-19.13.44:150][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.099783 seconds
+[2018.11.11-19.13.44:162][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.11.11-19.13.44:163][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.11.11-19.13.44:163][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.11-19.13.44:233][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.11.11-19.13.52:884][  0]LogMaterial: Missing cached shader map for material KeyDiskMaterial, compiling. 
+[2018.11.11-19.13.52:922][  0]LogMaterial: Missing cached shader map for material M_ContentWindow, compiling. 
+[2018.11.11-19.13.53:025][  0]LogMaterial: Missing cached shader map for material VivePreControllerMaterial, compiling. 
+[2018.11.11-19.13.53:089][  0]LogMaterial: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2018.11.11-19.13.53:146][  0]LogMaterial: Missing cached shader map for material TeleportDirectionMaterial, compiling. 
+[2018.11.11-19.13.53:277][  0]LogMaterial: Missing cached shader map for material OculusControllerMaterial, compiling. 
+[2018.11.11-19.13.53:306][  0]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.11.11-19.13.53:323][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.11.11-19.13.53:348][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.11.11-19.13.53:377][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.11.11-19.13.53:423][  0]LogMaterial: Missing cached shader map for material GridPostProcess, compiling. 
+[2018.11.11-19.13.53:436][  0]LogMaterial: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2018.11.11-19.13.53:456][  0]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2018.11.11-19.13.53:554][  0]LogMaterial: Missing cached shader map for material LineMaterial, compiling. 
+[2018.11.11-19.13.53:583][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.11.11-19.13.55:369][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.11.11-19.13.55:405][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.11.11-19.13.56:079][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.11-19.13.56:136][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.11-19.13.56:601][  0]LogMaterial: Missing cached shader map for material DefaultMaterial, compiling. 
+[2018.11.11-19.13.57:441][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2018.11.11-19.13.57:453][  0]LogMaterial: Missing cached shader map for material CustomDepth, compiling. 
+[2018.11.11-19.13.57:483][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.11.11-19.13.57:496][  0]LogMaterial: Missing cached shader map for material CustomStencil, compiling. 
+[2018.11.11-19.13.57:509][  0]LogMaterial: Missing cached shader map for material FinalImage, compiling. 
+[2018.11.11-19.13.57:522][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2018.11.11-19.13.57:534][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2018.11.11-19.13.57:546][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2018.11.11-19.13.57:559][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2018.11.11-19.13.57:571][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2018.11.11-19.13.57:584][  0]LogMaterial: Missing cached shader map for material SceneColor, compiling. 
+[2018.11.11-19.13.57:596][  0]LogMaterial: Missing cached shader map for material SceneDepth, compiling. 
+[2018.11.11-19.13.57:608][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2018.11.11-19.13.57:621][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2018.11.11-19.13.57:633][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2018.11.11-19.13.57:645][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.11.11-19.13.57:658][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2018.11.11-19.13.57:672][  0]LogMaterial: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2018.11.11-19.13.57:695][  0]LogMaterial: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2018.11.11-19.13.57:708][  0]LogMaterial: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2018.11.11-19.13.57:722][  0]LogMaterial: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2018.11.11-19.13.57:734][  0]LogMaterial: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2018.11.11-19.13.58:335][  0]SourceControl: Source control is disabled
+[2018.11.11-19.13.58:343][  0]SourceControl: Source control is disabled
+[2018.11.11-19.13.58:415][  0]SourceControl: Source control is disabled
+[2018.11.11-19.13.58:487][  0]SourceControl: Source control is disabled
+[2018.11.11-19.13.59:282][  0]LogMaterial: Missing cached shader map for material DefaultMediaPlaneMaterial, compiling. 
+[2018.11.11-19.13.59:714][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.11-19.14.00:083][  0]LogOcInput: OculusInput pre-init called
+[2018.11.11-19.14.00:456][  0]LogMaterial: Missing cached shader map for material HighResScreenshot, compiling. 
+[2018.11.11-19.14.00:474][  0]LogMaterial: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2018.11.11-19.14.00:496][  0]LogMaterial: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2018.11.11-19.14.00:713][  0]LogEngine: Initializing Engine...
+[2018.11.11-19.14.00:736][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.11-19.14.00:741][  0]LogMaterial: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2018.11.11-19.14.01:023][  0]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2018.11.11-19.14.01:797][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2018.11.11-19.14.02:045][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2018.11.11-19.14.02:832][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2018.11.11-19.14.03:628][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2018.11.11-19.14.03:861][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2018.11.11-19.14.03:976][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2018.11.11-19.14.04:002][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2018.11.11-19.14.04:026][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2018.11.11-19.14.04:045][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2018.11.11-19.14.04:066][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2018.11.11-19.14.04:088][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2018.11.11-19.14.04:098][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2018.11.11-19.14.04:136][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2018.11.11-19.14.04:187][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2018.11.11-19.14.04:207][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2018.11.11-19.14.04:237][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2018.11.11-19.14.04:253][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2018.11.11-19.14.04:274][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2018.11.11-19.14.04:396][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2018.11.11-19.14.04:416][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2018.11.11-19.14.04:444][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2018.11.11-19.14.04:470][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2018.11.11-19.14.04:812][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.11-19.14.04:812][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.11-19.14.05:146][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.11-19.14.05:232][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.11-19.14.05:280][  0]LogInit: FAudioDevice initialized.
+[2018.11.11-19.14.05:339][  0]LogDerivedDataCache: Saved boot cache 0.06s 69MB C:/Users/bheagney/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.11-19.14.05:356][  0]LogInit: Texture streaming: Enabled
+[2018.11.11-19.14.05:481][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.11-19.14.05:824][  0]LogInit: Transaction tracking system initialized
+[2018.11.11-19.14.09:014][  0]BlueprintLog: New page: Editor Load
+[2018.11.11-19.14.11:151][  0]LocalizationService: Localization service is disabled
+[2018.11.11-19.14.12:346][  0]LogConsoleResponse: Display: 
+[2018.11.11-19.14.12:470][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2018.11.11-19.14.12:497][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2018.11.11-19.14.12:517][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2018.11.11-19.14.12:538][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2018.11.11-19.14.12:559][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2018.11.11-19.14.12:588][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2018.11.11-19.14.12:623][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2018.11.11-19.14.12:644][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2018.11.11-19.14.12:667][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2018.11.11-19.14.12:700][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2018.11.11-19.14.12:721][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2018.11.11-19.14.12:743][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2018.11.11-19.14.12:761][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2018.11.11-19.14.12:840][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2018.11.11-19.14.12:921][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2018.11.11-19.14.13:014][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2018.11.11-19.14.13:074][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.11-19.14.13:074][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.11-19.14.13:079][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/Content/' took 0.02s
+[2018.11.11-19.14.13:079][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.11-19.14.16:680][  0]SourceControl: Source control is disabled
+[2018.11.11-19.14.16:805][  0]Cmd: MAP LOAD FILE="C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.11-19.14.16:806][  0]LogEditorServer: Warning: Can't find file 'C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.11.11-19.14.16:822][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.11-19.14.16:945][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123.739ms to complete.
+[2018.11.11-19.14.16:945][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.215
+[2018.11.11-19.14.20:084][  0]LogCollectionManager: Loaded 0 collections in 0.005921 seconds
+[2018.11.11-19.14.20:354][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/Saved/Collections/' took 0.01s
+[2018.11.11-19.14.20:354][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/Content/Developers/bheagney/Collections/' took 0.01s
+[2018.11.11-19.14.20:354][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/Content/Collections/' took 0.01s
+[2018.11.11-19.14.20:354][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.11-19.14.20:369][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2363 classes and 519 folders.
+[2018.11.11-19.14.20:512][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.11-19.14.21:630][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.11-19.14.21:755][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.11-19.14.22:660][  0]LogSlate: Took 0.023542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.11-19.14.22:684][  0]LogSlate: Took 0.011680 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.11-19.14.22:722][  0]LogSlate: Took 0.013614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.11-19.14.23:059][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.11.11-19.14.23:207][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2018.11.11-19.14.23:837][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.11-19.14.23:837][  0]LogLoad: (Engine Initialization) Total time: 120.42 seconds
+[2018.11.11-19.14.23:837][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.11-19.14.23:837][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.11.11-19.14.24:289][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.11-19.14.24:888][  2]LogAssetRegistry: Asset discovery search completed in 44.6649 seconds
+[2018.11.11-19.14.24:913][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.11-19.14.24:913][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2018.11.11-19.14.28:582][ 13]LogSlate: Took 0.017141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.11-19.14.29:582][ 17]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=5.00
+[2018.11.11-19.14.29:582][ 17]LogSynthBenchmark: Display: ===============
+[2018.11.11-19.14.29:582][ 17]LogSynthBenchmark: Display: Main Processor:
+[2018.11.11-19.14.29:778][ 17]LogSynthBenchmark: Display:          ... 0.021750 s/Run 'RayIntersect'
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:          ... 0.017658 s/Run 'Fractal'
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display: 
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 32
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   NumberOfCores (logical): 8
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   CPU Perf Index 0: 117.7 (weight 1.00)
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   CPU Perf Index 1: 162.0 (weight 1.50)
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:  
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display: Graphics:
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 1070'
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   Device Id: 0x1B81
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2018.11.11-19.14.29:779][ 17]LogSynthBenchmark: Display:   GPU Memory: 8096/0/16357 MB
+[2018.11.11-19.14.29:865][ 17]LogSynthBenchmark: Display:   GPU first test: 0.01s
+[2018.11.11-19.14.29:865][ 17]LogSynthBenchmark: Display:          ... 5.878 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2018.11.11-19.14.29:865][ 17]LogSynthBenchmark: Display:          ... 5.205 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2018.11.11-19.14.29:865][ 17]LogSynthBenchmark: Display:          ... 4.095 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be very inaccurate)
+[2018.11.11-19.14.29:865][ 17]LogSynthBenchmark: Display:          ... 17.784 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2018.11.11-19.14.29:865][ 17]LogSynthBenchmark: Display:          ... 0.763 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2018.11.11-19.14.29:865][ 17]LogSynthBenchmark: Display:          ... 39.315 s/GigaVert, Confidence=19% 'VertThroughPut1' (likely to be very inaccurate)
+[2018.11.11-19.14.29:865][ 17]LogSynthBenchmark: Display:          ... 4.279 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:   GPU second test: 0.11s
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 7.965 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 6.433 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 5.887 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be inaccurate)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 35.781 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 0.812 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 5.981 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be inaccurate)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 3.303 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:   GPU Final Results:
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 7.965 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 6.433 s/GigaPix, Confidence=100% 'TexHeavy'
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 5.887 s/GigaPix, Confidence=89% 'DepTexHeavy'
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 35.781 s/GigaPix, Confidence=100% 'FillOnly'
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 0.812 s/GigaPix, Confidence=100% 'Bandwidth'
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 5.981 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... 3.303 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display: 
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:   GPU Perf Index 0: 173.1 (weight 1.00)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:   GPU Perf Index 1: 86.4 (weight 0.10)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:   GPU Perf Index 2: 153.0 (weight 0.10)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:   GPU Perf Index 3: 140.5 (weight 3.00)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:   GPU Perf Index 4: 75.8 (weight 1.00)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:   GPU Perf Index 5: 389.2 (weight 0.00)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:   GPU Perf Index 6: 186.9 (weight 0.00)
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:   CPUIndex: 144.3
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:   GPUIndex: 133.5
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display: 
+[2018.11.11-19.14.30:049][ 17]LogSynthBenchmark: Display:          ... Total Time: 0.467175 sec
+[2018.11.11-19.14.30:051][ 17]LogWindows: FWindowsPlatformSurvey::TickSurveyHardware() WinSAT assessment unavailable. Unable to examine some hardware metrics. Run the Windows Experience Index Assessment.
+[2018.11.11-19.14.57:752][100]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.11-19.19.17:565][  7]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.11-19.19.17:755][  7]LogAIModule: Creating AISystem for world Start
+[2018.11.11-19.19.17:875][  7]Cmd: MAP LOAD FILE="C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/Content/Maps/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.11-19.19.17:875][  7]LightingResults: New page: Lighting Build
+[2018.11.11-19.19.17:909][  7]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.11.11-19.19.17:910][  7]LoadErrors: New page: Loading map: Start.umap
+[2018.11.11-19.19.17:920][  7]MapCheck: New page: Map Check
+[2018.11.11-19.19.17:920][  7]LightingResults: New page: Lighting Build
+[2018.11.11-19.19.18:039][  7]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.11-19.19.18:099][  7]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.11-19.19.18:146][  7]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.176ms to complete.
+[2018.11.11-19.19.18:146][  7]LogFileHelpers: Loading map 'Start' took 0.295
+[2018.11.11-19.19.20:349][213]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 116 classes and 0 folders.
+[2018.11.11-19.19.21:383][213]LogSlate: Took 0.014670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.11-19.19.29:713][772]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.29:753][772]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_4' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.29:767][773]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_6' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.29:769][773]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.29:781][774]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.29:794][775]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_12' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.29:805][776]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_14' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.29:809][776]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_16' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.29:821][777]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_18' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.29:834][778]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_20' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.29:846][779]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_22' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.29:859][780]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_24' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.29:870][781]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_26' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:563][827]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:566][827]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:579][828]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_32' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:591][829]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_34' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:604][830]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_36' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:616][831]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_38' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:628][832]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_40' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:640][833]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_42' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:651][834]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_44' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:663][835]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:676][836]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_48' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:689][837]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_50' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:701][838]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:712][839]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_54' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:725][840]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_56' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:738][841]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:751][842]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_60' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:763][843]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_62' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:775][844]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_64' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:788][845]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_66' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:800][846]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_68' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:812][847]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_70' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:825][848]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_72' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:839][849]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_74' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:851][850]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_76' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:863][851]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_78' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:876][852]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:889][853]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:901][854]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.30:915][855]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.11-19.19.32:347][955]BlueprintLog: New page: Compile Start
+[2018.11.11-19.19.32:964][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Start" FILE="C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/Content/Widgets/Start.uasset" SILENT=true
+[2018.11.11-19.19.33:016][995]LogSavePackage: Save=44.39ms
+[2018.11.11-19.19.33:016][995]LogSavePackage: Moving 'C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/Saved/Start0FA6E9174616494355A2B5BFE0981639.tmp' to 'C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/Content/Widgets/Start.uasset'
+[2018.11.11-19.19.33:017][995]LogSavePackage: Display: Finished SavePackage C:/Users/bheagney/Documents/GitHub/UE4MegaJamHeagney/Content/Widgets/Start.uasset
+[2018.11.11-19.19.34:929][164]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.11-19.19.35:056][164]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Maps/Start.Start_C' with ClassGeneratedBy '/Game/Maps/Start.Start:PersistentLevel.Start'
+[2018.11.11-19.19.35:056][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.11-19.19.35:061][164]PIE: New page: PIE session: Start (Nov 11, 2018, 9:19:35 AM)
+[2018.11.11-19.19.35:061][164]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Start
+[2018.11.11-19.19.35:062][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000685s)
+[2018.11.11-19.19.35:062][164]LogAIModule: Creating AISystem for world Start
+[2018.11.11-19.19.35:062][164]LogPlayLevel: PIE: World Init took: (0.000451s)
+[2018.11.11-19.19.35:062][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Start.Start to /Game/Maps/UEDPIE_0_Start.Start (0.001296s)
+[2018.11.11-19.19.35:096][164]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.11-19.19.35:128][164]LogInit: FAudioDevice initialized.
+[2018.11.11-19.19.35:486][164]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.11.11-19.19.35:586][164]LogMaterial: Missing cached shader map for material BaseMaterial, compiling. 
+[2018.11.11-19.19.35:651][164]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.11.11-19.19.35:785][164]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.11-19.19.35:786][164]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Start.Start up for play (max tick rate 0) at 2018.11.11-14.19.35
+[2018.11.11-19.19.35:787][164]LogWorld: Bringing up level for play took: 0.000532
+[2018.11.11-19.19.35:885][164]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.11.11-19.19.36:008][164]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Start 0.071
+[2018.11.11-19.19.36:008][164]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Maps/Start.Start_C' with ClassGeneratedBy '/Game/Maps/Start.Start:PersistentLevel.Start'
+[2018.11.11-19.19.37:162][290]LogNet: Browse: /Game/Maps/Play
+[2018.11.11-19.19.37:162][290]LogLoad: LoadMap: /Game/Maps/Play
+[2018.11.11-19.19.37:749][290]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.11.11-19.19.37:749][290]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.11.11-19.19.37:749][290]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2018.11.11-19.19.37:749][290]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2018.11.11-19.19.37:749][290]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.11.11-19.19.37:749][290]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2018.11.11-19.19.37:749][290]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2018.11.11-19.19.39:752][290]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2018.11.11-19.19.39:752][290]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 2048X1024)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 2048X1024)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 2048X1024)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 2048X1024)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 2048X1024)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 2048X1024)
+[2018.11.11-19.19.39:753][290]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X32)
+[2018.11.11-19.19.39:753][290]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.11.11-19.19.39:779][290]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.11.11-19.19.39:831][290]LogAudioDerivedData: Display: Building compressed audio format OGG wave ambience_gold...
+[2018.11.11-19.19.40:391][290]LogMaterial: Missing cached shader map for material M_GreyFloor, compiling. 
+[2018.11.11-19.19.40:442][290]LogMaterial: Missing cached shader map for material M_GreyBoxes, compiling. 
+[2018.11.11-19.19.40:477][290]LogMaterial: Missing cached shader map for material M_GoldHeag, compiling. 
+[2018.11.11-19.19.40:510][290]LogAudioDerivedData: Display: Building compressed audio format OGG wave Opening5_mixdown...
+[2018.11.11-19.19.40:621][290]LogAudioDerivedData: Display: Building compressed audio format OGG wave Slam_mixdown...
+[2018.11.11-19.19.40:651][290]LogAudioDerivedData: Display: Building compressed audio format OGG wave Opening_mixdown...
+[2018.11.11-19.19.41:357][290]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.677 s
+[2018.11.11-19.19.41:357][290]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.11-19.19.41:357][290]LogOutputDevice: Error: 
+[2018.11.11-19.19.41:357][290]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.11.11-19.19.41:357][290]LogOutputDevice: Error: 
+[2018.11.11-19.19.41:357][290]LogOutputDevice: Error: Stack: 
+[2018.11.11-19.19.41:357][290]LogOutputDevice: Error: [Callstack] 0x00000000BD0A2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.11-19.19.41:357][290]LogOutputDevice: Error: [Callstack] 0x00000000BCE4123A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.11-19.19.41:357][290]LogOutputDevice: Error: [Callstack] 0x00000000BCE5B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.11-19.19.41:357][290]LogOutputDevice: Error: [Callstack] 0x00000000B4840199 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.11-19.19.41:357][290]LogOutputDevice: Error: [Callstack] 0x00000000B480EF4D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x00000000BC636C17 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x00000000BC94DED6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x00000000BC965259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x00000000BC964774 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x00000000BABFFB28 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x00000000BABB3FA8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x00000000BAC2539D UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x00000000B79561B1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x00000000B8204AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x000000000B245A26 UE4Editor.exe!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x000000000B255430 UE4Editor.exe!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x000000000B2554AA UE4Editor.exe!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x000000000B262379 UE4Editor.exe!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x000000000B263D57 UE4Editor.exe!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x0000000069503034 KERNEL32.DLL!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: [Callstack] 0x0000000069C81551 ntdll.dll!UnknownFunction []
+[2018.11.11-19.19.41:358][290]LogOutputDevice: Error: 
+[2018.11.11-19.19.41:361][290]LogStats:                SubmitErrorReport -  0.000 s
